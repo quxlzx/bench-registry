@@ -1,0 +1,5 @@
+.venv/
+runs.db
+__pycache__/
+*.log
+*.local.*
